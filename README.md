@@ -1,7 +1,5 @@
 # Hi, I'm Kostya 👋
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
-
 ### 📱 React Native Mobile Developer
 
 I build mobile applications with a focus on **simplicity, usability, and clean design**.
