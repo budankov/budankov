@@ -1,37 +1,108 @@
+# Hi, I'm Kostya 👋
 
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+### 📱 React Native Mobile Developer
 
+I build mobile applications with a focus on **simplicity, usability, and clean design**.
+Turning ideas into real, working products is what drives me.
 
-# Hello, world! I'm Kostya 👋
-## I'm a junior Full Stack developer! 😉
+---
 
+## 🚀 About Me
 
-### :man_technologist: Technical skills I have:
-- :zap: <b>HTML:</b> basics, semantics, a11y.
-- :zap: <b>CSS:</b> basics, flexbox, adaptive and mobile-first css, BEM, SASS.
-- :zap: <b>JavaScript:</b> basics, ES5/ES6+, DOM/BOM, AJAX, patterns, Gulp, Webpack.
-- :zap: <b>React:</b> basics, state management with Redux, client-side routing, patterns, testing.
-- :zap: <b>NodeJS:</b> vanilla NodeJS, Express, MongoDB, Mongoose, JWT.
-- :zap: <b>Basics and tools:</b> terminal, git, github, npm, babel.
+* 📱 Focused on **mobile development (iOS & Android)**
+* ⚡ Experience with full app lifecycle (idea → build → release)
+* 🚀 Published apps on the App Store and Google Play (coming soon)
+* 🧠 Strong focus on UX, performance, and real-world usability
+* 🤝 Comfortable working independently and in a team
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budankov/)
+---
 
-----
-### :hammer_and_wrench: Languages and Tools :
+## 🧩 Projects
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-</p>
+I build different types of mobile applications:
+
+* 📚 Educational apps
+* 📸 Social apps
+* 🛍️ E-commerce apps
+* 💬 AI-powered apps
+
+👉 All projects, details, and downloads are available on my website:
+**https://budankov.dev**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+
+* React Native + TypeScript
+* Expo / EAS
+* Expo Router / React Navigation
+
+### 🔥 Backend & Integrations
+
+* Firebase (Auth, Firestore, Messaging)
+* REST APIs / API integrations
+
+### 🧠 State & Logic
+
+* Redux Toolkit
+* AsyncStorage
+
+### 🧩 Tools & Libraries
+
+* Axios
+* react-hook-form + Yup
+* i18next (localization)
+* Reanimated
+* Camera, Maps, Location APIs
+
+---
+
+## 🤖 AI & Modern Tech
+
+* Experience working with AI APIs and integrations
+* Integrated AI model into a mobile application
+* Actively using AI tools to speed up development and research
+* Keeping up with modern technologies and trends
+
+---
+
+## 🎨 Design & UX
+
+* Creating UI/UX designs самостоятельно
+* Figma / Photoshop
+* Lottie animations
+* Focus on clean, intuitive, and user-friendly interfaces
+
+---
+
+## ⚙️ Additional
+
+* Git / GitHub workflow
+* Experience with TypeScript
+* Understanding of mobile architecture
+* Experience publishing apps (App Store / Google Play)
+
+---
+
+## 🎯 Current Focus
+
+* Building **production-ready mobile apps**
+* Improving UX and performance
+* Growing as a **React Native developer**
+
+---
+
+## 📬 Contact
+
+🌐 Website: https://budankov.dev
+📧 Email: [contact@budankov.dev](mailto:contact@budankov.dev)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/budankov/)
+
+---
+
+⭐️ Open to opportunities and collaboration!
