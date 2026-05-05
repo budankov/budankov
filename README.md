@@ -96,8 +96,8 @@ I build different types of mobile applications:
 
 ## 📬 Contact
 
-🌐 Website: https://budankov.dev
-📧 Email: [contact@budankov.dev](mailto:contact@budankov.dev)
+* 🌐 Website: https://budankov.dev
+* 📧 Email: [contact@budankov.dev](mailto:contact@budankov.dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/budankov/)
 
